@@ -8,10 +8,10 @@ class MyDirectories(object):
     # BinRTTradesDir = TAQ + "/trades"
     # BinRQQuotesDir = TAQ + "/quotes"
     Ruihan = "/Users/apple"
-    TempDir = Ruihan + "/taq"
+    TempDir = Ruihan + "/taq_2"
     UnitTests = TempDir + "/src"
 
-    TAQ = "/Users/apple/taq/data"
+    TAQ = "/Users/apple/taq_2/data"
 
     BinRTTradesDir = TAQ + "/trades"
     BinRQQuotesDir = TAQ + "/quotes"

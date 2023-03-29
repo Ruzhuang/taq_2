@@ -1,10 +1,5 @@
 **/__pycache/
 **/.DS_Store
-/output/AYE_20070619-20070921_quotes.csv
-/output/AYE_20070619-20070921_trades.csv
-/output/GFR_20070619-20070921_trades.csv
-/output/GFR_20070619-20070921_quotes.csv
-/output/HON_20070619-20070621_trades.csv
 /data/quotes/20070628/
 /data/quotes/20070717/
 /data/quotes/20070702/
