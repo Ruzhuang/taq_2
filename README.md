@@ -5,6 +5,8 @@ Sihan Qi  sq543
 Sihan Liu sl6964  
 Ruihan Zhuang rz1391  
 
+## PDF
+The PDF file for the answers to the questions are in TAQ2.pdf
 
 ## Dependency
 Python version: 3.10
